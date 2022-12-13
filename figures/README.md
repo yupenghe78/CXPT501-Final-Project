@@ -1,0 +1,1 @@
+This directory includes figures of my analyze. This include a boxplot about the distribution and statistics of age between the participents with CVD and participents wiout CVD. Two histograms are about the distribution of BMI of patients with and without CVD. 
